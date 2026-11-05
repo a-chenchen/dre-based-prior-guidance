@@ -1,0 +1,21 @@
+# Verified on Python 3.10.
+jax==0.6.2
+jaxlib==0.6.2
+torch==2.6.0
+numpy==1.26.4
+chex
+jaxtyping
+dm-haiku
+optax
+networkx
+scipy
+pandas
+joblib
+sbi
+sbibm
+pyro-ppl
+
+# TESS light-curve experiment (experiments/lightcurve) only
+lightkurve
+pytransit
+matplotlib
